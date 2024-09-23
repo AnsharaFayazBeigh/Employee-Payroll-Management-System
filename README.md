@@ -28,37 +28,12 @@ Copy code
 pip install -r requirements.txt
 Run the application: Start with the login module:
 
-bash
-Copy code
-python login.py
-After successful login, open the main application:
-
-bash
-Copy code
-python main.py
-Usage
+## Usage
 Login: Access the system using your credentials.
 Manage Employee Information: Add, update, or delete employee details.
 Calculate Salary: Use the built-in calculator to compute final salaries.
 Search for Employees: Enter employee ID to retrieve details.
 Generate Payslips: Automatically create and print payslips for employees.
-Sample Payslip Format
-yaml
-Copy code
-------------------------------------------------
-Employee ID           :  [ID]
-Salary Of             :  MON-YYYY
-Generated on          :  DD-MM-YYYY
--------------------------------------------------
-Total Days            :  DD
-Total Present         :  DD
-Total Absent          :  DD
-Basic Salary          :  Rs. ----
-Medical               :  Rs. ----
-PF                    :  Rs. ----
-Conveyance            :  Rs. ----
-Net Salary            :  Rs. -----
--------------------------------------------------
 
 ## Contribution
 Contributions are welcome! You can enhance the system by adding new features or improving existing functionalities. Please fork the repository and submit a pull request.

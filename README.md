@@ -3,13 +3,13 @@
 The Employee Payroll Management System is a Python-based desktop application designed to manage employee payroll efficiently. It allows organizations to track employee details, calculate salaries, and generate payslips.
 
 ## Features
-Login System: Secure user authentication before accessing the system.
-Add Employee Details: Input employee designation, name, date of joining (D.O.J), and salary information.
-Salary Calculator: Calculate final salaries after deductions (e.g., GP fund, taxes).
-Employee Search: Quickly retrieve employee records by ID.
-Scrollable Employee Records: Navigate through extensive employee data with a vertical scrollbar.
-Payslip Generation: Automatically generate payslips for employees.
-Print Salary Slip: Print payslips directly from the application.
+Login System: Secure authentication for user access to the system.
+Employee Management: Add and manage employee details, including designation, name, date of joining (D.O.J), and salary information.
+Salary Calculation: Calculate final salaries after applicable deductions.
+Employee Search: Efficiently retrieve employee records using their ID.
+Scrollable Records: Easily navigate through extensive employee data with a vertical scrollbar.
+Payslip Generation: Automatically generate detailed payslips for employees, summarizing salary and deductions.
+Print Functionality: Print payslips directly from the application for distribution.
 ## Technologies Used
 Python 3.x
 Tkinter for GUI

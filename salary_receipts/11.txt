@@ -1,0 +1,19 @@
+	         COMPANY  
+	       XYZ, 4th Floor
+-------------------------------------------------
+Employee ID		:  
+Salary Of		:  MON-YYYY
+Generated on		:  DD-MM-YYYY
+-------------------------------------------------
+Total Days		:  DD
+Total Present		:  DD
+Total Absent		:  DD
+Basic Salary		:  Rs.----
+Medical		:  Rs.----
+PF		:  Rs.----
+Conveyance		:  Rs.----
+Net_salary		:  Rs.-----
+-------------------------------------------------
+This is a computer-generated slip, not
+required any signature
+

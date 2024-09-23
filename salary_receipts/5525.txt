@@ -1,0 +1,19 @@
+	                COMPANY  
+	               XYZ, 4th Floor
+-----------------------------
+Employee ID		:  5525
+Salary Of		:  July-2023
+Generated on	:  03-08-2023
+---------------------------------------------------
+Total Days		:  31
+Total Present	:  29
+Total Absent	:  2
+Basic Salary	:  Rs.45000
+Medical		    :  Rs.2100
+PF		        :  Rs.1900
+Conveyance		:  Rs.1450
+Net_salary		:  Rs.39546.77
+------------------------------------------------------
+This is a computer-generated slip, not
+required any signature
+

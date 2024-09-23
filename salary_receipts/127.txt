@@ -1,0 +1,21 @@
+            COMTECH INFO SOLUTIONS
+                  PVT LTD
+            Top Floor,Khidmat Complex,
+               Regal Lane, Srinagar, J&K
+-----------------------------
+Employee ID		:  127
+Salary Of		:  june-2023
+Generated on		:  07-08-2023
+---------------------------------------------------
+Total Days		:  50
+Total Present		:  49
+Total Absent		:  1
+Basic Salary		:  Rs.500
+Medical		        :   Rs.20
+PF		        :         Rs.49
+Conveyance		:  Rs.100
+Net_salary		:  Rs.521.0
+------------------------------------------------------
+This is a computer-generated slip, not
+required any signature
+

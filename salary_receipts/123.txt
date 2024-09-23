@@ -1,0 +1,19 @@
+	                COMPANY  
+	               XYZ, 4th Floor
+-----------------------------
+Employee ID		:  123
+Salary Of		:  july-2023
+Generated on		:  07-08-2023
+---------------------------------------------------
+Total Days		:  31
+Total Present		:  25
+Total Absent		:  6
+Basic Salary		:  Rs.50000
+Medical		:  Rs.1000
+PF		:  Rs.2000
+Conveyance		:  Rs.1000
+Net_salary		:  Rs.38322.58
+------------------------------------------------------
+This is a computer-generated slip, not
+required any signature
+
